@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List Linq meseleleri", "List Linq meseleleri\List Linq meseleleri.csproj", "{2D4B06F0-F9D6-42E1-B316-BC91A453182E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D4B06F0-F9D6-42E1-B316-BC91A453182E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D4B06F0-F9D6-42E1-B316-BC91A453182E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D4B06F0-F9D6-42E1-B316-BC91A453182E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D4B06F0-F9D6-42E1-B316-BC91A453182E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4C972E2-7302-44DF-9B7E-D60A0ECE8254}
+	EndGlobalSection
+EndGlobal
